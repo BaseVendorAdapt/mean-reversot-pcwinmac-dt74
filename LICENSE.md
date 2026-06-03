@@ -1,4 +1,4 @@
-# 
+# 安全 mean reversion trading bot 预设 Mac OS版 | VIP mean reversion trading bot 预设 PC Windows版。集成 交易签名 和 期货交易，跨平台性能最大化。
 
 
 
